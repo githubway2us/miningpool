@@ -8,8 +8,8 @@ from bech32 import decode, convertbits
 from threading import Lock
 
 # Configuration
-rpc_user = "pukumpee"
-rpc_password = "123pp"
+rpc_user = "user"
+rpc_password = "password"
 rpc_url = "http://127.0.0.1:8332"
 reward_address = "bc1qmuhxdy836dxertx98s60z24slhpggumrplzcp8"  # เพิ่มตัวแปรนี้
 template_timeout = 300
